@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my personal GitHub
+
+I'm studying computer engeneering at Univesp as too studying web programming at Trybe 
 <!--
 **higoramorim/higoramorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
